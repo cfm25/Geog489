@@ -1,6 +1,9 @@
 # Geog489
 Advanced Python Exercises
 
+This repository is for storing code written in fullfillment of requirements for the Penn State GIS course,
+GEOG 489, Advanced Python Programming for GIS.
+
 Source code: scripttool.py, scripttool_.py, multicode.py, multicode_.py, mapping.py
 
 The "scripttool.py" script demonstrates multiprocessing. It calls the multicode script which clips a single target 
